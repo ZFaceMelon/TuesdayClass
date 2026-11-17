@@ -9,7 +9,7 @@ description: "A white paper urging local government to prepare Isla Vista for a 
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
 
 <div className="byline">
-  <span>**Kenneth Smith**<br/>UC Santa Barbara</span>
+  <span>**Zane Yoshikawa-Heilpern**<br/>UC Santa Barbara</span>
   <span>**J. M. Forester**<br/>Zombie Biology Institute</span>
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
