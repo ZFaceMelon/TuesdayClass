@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://zfacemelon.github.io',
-  baseUrl: '/tuesdayclass/',
+  baseUrl: '/TuesdayClass/',
   organizationName: 'zfacemelon',
-  projectName: 'tuesdayclass',
+  projectName: 'TuesdayClass',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
