@@ -29,6 +29,13 @@ We are healthy only to the extent that our ideas are humane.
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
+<iframe
+title="I would shoot my fellow students in the leg."
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/1495F/" height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+
 Two esteemed biologists have made the following observations about the existence of zombies:
 
 > "We know that they are here and live among us. That has been conclusively proven. The only question is when they are coming for us." — E. O. Wilson
