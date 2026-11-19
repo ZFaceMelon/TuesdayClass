@@ -6,6 +6,9 @@ hide_table_of_contents: true
 description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
 
 ![A crazy picture](/img/poop.avif)
@@ -47,6 +50,27 @@ and
 While many theories exist about the exact mechanism behind zombie infections, the most prominent one was made famous in the video game and television series *The Last of Us*. Essentially, a mutated strain of Ophiocordyceps — a real-world "zombie ant" fungus [1] — evolved to survive human body temperature and infect the brain, turning its living host into a hyper-aggressive puppet whose sole drive is to spread the fungus to others through chewing into their flesh.[^fungus]
 
 ## 3. A Four-Step Plan {#foursteps}
+
+<Tabs>
+<TabItem value="q1" label="Question 1" default>
+<iframe
+title="Your first chart's title"
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/1495F/"
+height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+<TabItem value="q2" label="Question 2">
+<iframe
+title="Your second chart's title"
+aria-label="Bar chart"
+src="https://datawrapper.dwcdn.net/abc12/"
+height="400"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+</Tabs>
 
 We want to suggest a four-step plan for the Isla Vista Community Services District:
 
