@@ -8,6 +8,8 @@ description: "A white paper urging local government to prepare Isla Vista for a 
 
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
 
+![A crazy picture](/img/poop.avif)
+
 <div className="byline">
   <span>**Zane Yoshikawa-Heilpern**<br/>UC Santa Barbara</span>
 </div>
