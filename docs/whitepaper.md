@@ -35,7 +35,7 @@ We are healthy only to the extent that our ideas are humane.
 <iframe
 title="I would shoot my fellow students in the leg."
 aria-label="Grouped column chart"
-src="https://datawrapper.dwcdn.net/1495F/" height="476"
+src="https://datawrapper.dwcdn.net/1494F/" height="476"
 style={{ width: '100%', border: 'none' }}
 ></iframe>
 
